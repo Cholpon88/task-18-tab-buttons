@@ -4,6 +4,6 @@ https://cholpon88.github.io/task-18-tab-buttons/
     
     Реализовать “кнопки-табы”.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6309da3-7072-4ff6-8e68-ddb4f6bb1dd4/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/88156532/162625222-e20977b1-d3fd-4cd5-bac1-98b76a74b863.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8333459e-9d47-4603-bd3e-d51a7c548df7/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/88156532/162625229-33449d6c-4117-4841-884e-48eef1b3c90a.png)
